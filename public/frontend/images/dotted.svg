@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 330.7 290.7" style="enable-background:new 0 0 330.7 290.7;" xml:space="preserve">
+<style type="text/css">
+  .st1{fill:#b6acbf;}
+  .st0{fill:#b6acbf;}
+  @keyframes dot {
+    0%, 6%, 30%, 36%, 70%, 76% {
+      opacity: 1;
+    }
+    1%, 5%, 31%, 35%, 71%, 75% {
+      opacity: 0;
+    }
+  }
+  .dot1 {
+    animation: dot 8000ms linear infinite;
+	fill:#0084FF;
+  }
+  .dot2 {
+    animation: dot 8000ms linear -4200ms infinite;
+	fill:#0084FF;
+  }
+  .dot3 {
+    animation: dot 10000ms linear -8000ms infinite;
+	fill:#0084FF;
+  }
+  .dot4 {
+    animation: dot 7000ms linear -1000ms infinite;
+	fill:#0084FF;
+  }
+  .dot5 {
+    animation: dot 5000ms linear -2500ms infinite;
+	fill:#0084FF;
+  }
+</style>
+<circle class="st0 dot1" cx="286.7" cy="246.6" r="3"/>
+<circle class="st1" cx="327.2" cy="246.6" r="3"/>
+<circle class="st1 dot3" cx="286.7" cy="206" r="3"/>
+<circle class="st0" cx="327.2" cy="206" r="3"/>
+<circle class="st1" cx="286.7" cy="165.4" r="3"/>
+<circle class="st1" cx="327.2" cy="165.4" r="3"/>
+<circle class="st1 dot5" cx="286.7" cy="124.8" r="3"/>
+<circle class="st0" cx="327.2" cy="124.8" r="3"/>
+<circle class="st1" cx="286.7" cy="84.2" r="3"/>
+<circle class="st1" cx="327.2" cy="84.2" r="3"/>
+<circle class="st1" cx="286.7" cy="43.6" r="3"/>
+<circle class="st1" cx="327.2" cy="43.6" r="3"/>
+<circle class="st1" cx="43.5" cy="287.2" r="3"/>
+<circle class="st0 dot3" cx="84.1" cy="287.2" r="3"/>
+<circle class="st1" cx="124.6" cy="287.2" r="3"/>
+<circle class="st1" cx="165.2" cy="287.2" r="3"/>
+<circle class="st1" cx="205.7" cy="287.2" r="3"/>
+<circle class="st1" cx="246.3" cy="287.2" r="3"/>
+<circle class="st1" cx="286.7" cy="287.2" r="3"/>
+<circle class="st1" cx="327.2" cy="287.2" r="3"/>
+<circle class="st1" cx="43.5" cy="246.6" r="3"/>
+<circle class="st1" cx="84.1" cy="246.6" r="3"/>
+<circle class="st1" cx="124.6" cy="246.6" r="3"/>
+<circle class="st0 dot4" cx="165.2" cy="246.6" r="3"/>
+<circle class="st1" cx="205.7" cy="246.6" r="3"/>
+<circle class="st1" cx="246.3" cy="246.6" r="3"/>
+<circle class="st1" cx="43.5" cy="206" r="3"/>
+<circle class="st1" cx="84.1" cy="206" r="3"/>
+<circle class="st1" cx="124.6" cy="206" r="3"/>
+<circle class="st1" cx="165.2" cy="206" r="3"/>
+<circle class="st1" cx="205.7" cy="206" r="3"/>
+<circle class="st0 dot5" cx="246.3" cy="206" r="3"/>
+<circle class="st1" cx="43.5" cy="165.4" r="3"/>
+<circle class="st0 dot2" cx="84.1" cy="165.4" r="3"/>
+<circle class="st1" cx="124.6" cy="165.4" r="3"/>
+<circle class="st1" cx="165.2" cy="165.4" r="3"/>
+<circle class="st1" cx="205.7" cy="165.4" r="3"/>
+<circle class="st1" cx="246.3" cy="165.4" r="3"/>
+<circle class="st1" cx="43.5" cy="124.8" r="3"/>
+<circle class="st1" cx="84.1" cy="124.8" r="3"/>
+<circle class="st1" cx="124.6" cy="124.8" r="3"/>
+<circle class="st1" cx="165.2" cy="124.8" r="3"/>
+<circle class="st1" cx="205.7" cy="124.8" r="3"/>
+<circle class="st1" cx="246.3" cy="124.8" r="3"/>
+<circle class="st0 dot5" cx="43.5" cy="84.2" r="3"/>
+<circle class="st1" cx="84.1" cy="84.2" r="3"/>
+<circle class="st1" cx="124.6" cy="84.2" r="3"/>
+<circle class="st1" cx="165.2" cy="84.2" r="3"/>
+<circle class="st1" cx="205.7" cy="84.2" r="3"/>
+<circle class="st0 dot1" cx="246.3" cy="84.2" r="3"/>
+<circle class="st1" cx="43.5" cy="43.6" r="3"/>
+<circle class="st1" cx="84.1" cy="43.6" r="3"/>
+<circle class="st1" cx="124.6" cy="43.6" r="3"/>
+<circle class="st1" cx="165.2" cy="43.6" r="3"/>
+<circle class="st1" cx="205.7" cy="43.6" r="3"/>
+<circle class="st1" cx="246.3" cy="43.6" r="3"/>
+<circle class="st0 dot3" cx="286.7" cy="3.5" r="3"/>
+<circle class="st1" cx="327.2" cy="3.5" r="3"/>
+<circle class="st1" cx="43.5" cy="3.5" r="3"/>
+<circle class="st1" cx="84.1" cy="3.5" r="3"/>
+<circle class="st1" cx="124.6" cy="3.5" r="3"/>
+<circle class="st0 dot4" cx="165.2" cy="3.5" r="3"/>
+<circle class="st0 dot2" cx="205.7" cy="3.5" r="3"/>
+<circle class="st1" cx="246.3" cy="3.5" r="3"/>
+</svg>
+
+
